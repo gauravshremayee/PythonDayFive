@@ -304,6 +304,6 @@ print(re.search(r'Spokes Person:\w*\s\w*\s\w*', 'Spokes Person:fsjhhfjhajhjshajh
 #In a file there are word containing special characters ,print those words
 #validate an email id with help of regular expression.
 #Validate ipv6 address using python regular expression 
-#Match all MAC addresses in file and print all those. 
+#Match all MAC addresses in file and print all those.
 
 
